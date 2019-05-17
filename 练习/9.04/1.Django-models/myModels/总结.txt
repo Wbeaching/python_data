@@ -1,0 +1,19 @@
+
+1.创建数据模型 models.py
+  python manage.py makemigrations 查看可迁移文件
+  python manage.py migrate  迁移文件，同时数据库可用
+2.打开终端shell: python manage.py shell
+3.终端内引入模型 : from app名字.models import 模型类名
+4.创建一个数据模型的实例化对象 : first = First(name="",des="")
+5.创建完成以后 数据库中不会存在，所以需要将对象数据储存起来
+   first.save()
+6.second = First.objects.create(name='',des='')
+7.查看所有数据 First.objects.all()
+  但是查询出来的内容为object 而不是对象的具体内容
+8.在models.py中修改代码 def __str__()
+9.First.objects.all() 查看更新以后的数据
+10.获取执行的数据 First.objects.get(id=""/name=""/des="")
+11.退出终端shell  : exit()
+12.查看保存的所有数据，需要在views.py里面进行设置
+   引入模型 ，获取所有数据 First.objects.all()
+   return

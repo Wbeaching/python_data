@@ -1,0 +1,27 @@
+{% load test %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>模板</title>
+</head>
+<body>
+
+    {# 注释 #}
+    {# {{ XXX }} 获取XXX变量的值 #}
+    <h1>现在显示的是{{name}}的信息</h1>
+    {# 设置时间格式 #}
+    <h2>显示时间是:{{today | date:'Y-m-d h:i:s'}}</h2>
+    <h2>name={{friend.name}} age={{friend.age}}</h2>
+
+    <!--{# {% %} 用来进行条件判断以及循环   #}-->
+    <!--{% if age < 50 %}-->
+        <!--<h3>年龄小于50岁</h3>-->
+    <!--{% elif age < 100 %}-->
+        <!--<h3>年龄小于100岁</h3>-->
+    <!--{% else %}-->
+        <!--<h3>超出人类年龄范围</h3>-->
+    <!--{% endif %}-->
+
+</body>
+</html>
