@@ -116,6 +116,7 @@ print(result)
 pattern = re.compile(r'http')
 result = pattern.search('www.jd.com,http://www.taobao.com')
 print(result)
+print('1111111111111111111111111111111111111111')
 pattern = re.compile(r'you')
 result = pattern.search('I love you ,I miss you , I hate you')
 print(result.group(0))
@@ -123,19 +124,22 @@ pattern = re.compile(r'I')
 result = pattern.search('love you I')
 print(result)
 # findall 找到所有符合的内容
-# # content = '12345,上山打老虎，老虎没打着，打只小松鼠，55555'
-# pattern = re.compile(r'\d{5}')
-# result = pattern.findall(content)
-# print(result)
+content = '12345,上山打老虎，老虎没打着，打只小松鼠，55555'
+pattern = re.compile(r'\d{5}')
+result = pattern.findall(content)
+print(result)
+print('22222222222222')
 # sub :替换子串（字符串的一部分）
 # \s :匹配空白的内容
 content = '杨过对战金轮法王，郭靖观战'
-# pattern = re.compile(r'杨\s*过')
-# result = pattern.sub('吕布',content)
-# print(result)
-# pattern = re.compile(r'金轮法王')
-# result = pattern.sub('服部半藏',result)
-# print(result)
+pattern = re.compile(r'杨\s*过')
+result = pattern.sub('吕布',content)
+print(result)
+print('8888888888888888888')
+pattern = re.compile(r'金轮法王')
+result = pattern.sub('服部半藏',result)
+print(result)
+print('999999999999999999999')
 key_word= [
     (r'杨\s*过','吕布'),
     (r'金轮法王','服部半藏'),

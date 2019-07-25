@@ -16,6 +16,8 @@ class DataManader(object):
         content= pattern.sub('',content)
         newData = (name,content)
         return newData
+
+
 class DBManager(object):
     connect = None
     cursor = None
@@ -33,6 +35,8 @@ class DBManager(object):
     def close_db(cls):
         cls.cursor.close()
         cls.connect.close()
+
+
 class BDTBSpider(object):
     def __init__(self):
         self.url = 'https://tieba.baidu.com/p/4685013359'

@@ -41,6 +41,7 @@ class QSBKSpider(object):
         # 创建一个数据管理的实例化对象dataTool
         # 并使其作为QBBKSpider的属性
         self.dataTool = DataManager()
+
     def get_code_from_url(self,index):
         # 拼接完整的url路径
         url = self.base_url+str(index)+'/'
@@ -56,6 +57,7 @@ class QSBKSpider(object):
              return None
         else:
             return code
+
     def get_userfull_info_from_code(self,code):
         # print(code)
         patter = re.compile(r'<div class="author clearfix">.*?<h2>(.*?)</h2>.*?<div class="articleGender.*?Icon">(.*?)</div>.*?<div class="content">.*?<span>(.*?)</span>.*?<span class="stats-vote">.*?<i class="number">(.*?)</i>.*?<span class="stats-comments">.*?<i class="number">(.*?)</i>',re.S)
@@ -68,6 +70,7 @@ class QSBKSpider(object):
             newData=self.dataTool.updata_new_data(oldData)
             # 插入数据到数据库
             DBManager.insert_info_to_table(newData)
+
 DBManager.create_db_and_table()
 qpSpider = QSBKSpider()
 # code=qpSpider.get_code_from_url(1)
