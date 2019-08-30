@@ -3,15 +3,18 @@
 from lxml import etree
 import requests,xlwt
 class QSWSpider(object):
+
     def __init__(self):
         self.base_url = 'https://www.qisuu.la/'
         self.headers = {
             'User-Aget':'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.146 Safari/537.36'
         }
         self.current_page = 1
+
     def start_spider(self):
         first_page = 'soft/sort01/index_1.html'
         self.get_page_code_with_url(first_page)
+
     def get_page_code_with_url(self,url):
         url = self.base_url+url
         # print(url)
@@ -19,6 +22,7 @@ class QSWSpider(object):
         code = etree.HTML(response)
         # print(code)
         self.get_info_with_url(code)
+
     def get_info_with_url(self,code):
         name_list = code.xpath('//div[@class="listBox"]/ul/li/a')
         for name in name_list:
@@ -27,6 +31,7 @@ class QSWSpider(object):
             content = name_href[0]
             # print(content)
             self.get_code_with_url(content)
+
     def get_code_with_url(self,content):
         full_url = self.base_url+content
         # print(full_url)
@@ -34,6 +39,7 @@ class QSWSpider(object):
         code = etree.HTML(response)
         # print(code)
         self.get_info_with_code(code)
+
     def get_info_with_code(self,code):
         image_list = code.xpath('//div[@class="detail_right"]/h1')
         # print(image_list)
@@ -64,6 +70,7 @@ class QSWSpider(object):
             # print(txt)
         self.current_page+=1
         self.get_next_page(code)
+
     def get_next_page(self,code):
         next_page = code.xpath('//div[@class="tspage"]/a/@href')
         print(next_page)
@@ -71,6 +78,7 @@ class QSWSpider(object):
         #     print('已经是最后一页')
         #     return
         # self.get_page_code_with_url(next_page)
+
 qishu = QSWSpider()
 qishu.start_spider()
 

@@ -5,12 +5,13 @@
 import csv
 rows = [['张三',14],['李四',24],['王五',34]]
 # csv在写入的时候，默认每次写入会空一行作为分割
-# 使用mewline =''可以将空行去掉
+# 使用newline =''可以将空行去掉
 with open ('test1.csv','w',newline = '') as csv_file:
     writer = csv.writer(csv_file)
     for row in rows:
         # writerow 写入一行
         writer.writerow(row)
+
 with open('test1.csv','r') as read_file:
     # 获取一个csv对象进行内容读取
     reader = csv.reader(read_file)
@@ -37,6 +38,7 @@ def write_data():
         for row in col_list:
             writer.writerow(row)
 write_data()
+
 data_dic = [{'name':'zhangsan','age':'15'},{'name':'lisi','age':'25'}]
 with open('dict.csv','w',newline='') as csv_file:
     keys = []
@@ -49,6 +51,7 @@ with open('dict.csv','w',newline='') as csv_file:
     writer.writeheader()
     for dict in data_dic:
         writer.writerow(dict)
+
 with open('dict.csv','r') as csv_file:
     reader = csv.DictReader(csv_file)
     print([row for row in reader])

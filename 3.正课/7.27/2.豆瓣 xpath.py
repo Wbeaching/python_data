@@ -4,7 +4,10 @@ import requests
 from lxml import etree
 from fake_useragent import UserAgent
 from urllib.request import ProxyHandler,build_opener
+
+
 class DBMovie(object):
+
     def __init__(self):
         self.base_url ='https://movie.douban.com/top250'
         self.current = 1
@@ -12,11 +15,13 @@ class DBMovie(object):
         self.sheet = None
         self.workBook = None
         self.record = 1
+
     def start_load_dbmovie(self):
         self.get_excel()
         # 第一次调用，不用传值
         self.get_code_with_url()
         self.workBook.save('豆瓣top250.xls')
+
     def get_excel(self):
         self.workBook = xlwt.Workbook(encoding='utf-8')
         self.sheet = self.workBook.add_sheet('电影排行榜')
@@ -73,11 +78,13 @@ class DBMovie(object):
             self.sheet.write(self.record, 4, comment_num)
             self.record+=1
             self.get_next_page(code)
+
     def get_next_page(self,code):
         next_url = code.xpath('//span[@class="next"]/a/@href')
         if len(next_url) == 0:
             print('已经是最后一页')
             return
         self.get_code_with_url(next_url[0])
+
 movie = DBMovie()
 movie.start_load_dbmovie()
