@@ -31,18 +31,17 @@
             window.location.href = 'new.html'
         }
         function showAllInfo(){
-            var main = document.createElement('main')
-            main.style.width = '500px'
-            main.style.backgroundColor = 'orange'
-            main.style.margin = '0 auto'
-            document.body.appendChild(main)
+            var main = document.createElement('main');
+            main.style.width = '500px';
+            main.style.backgroundColor = 'orange';
+            main.style.margin = '0 auto';
+            document.body.appendChild(main);
 
-            main.innerText = ''
+            main.innerText = '';
+            var xhr = new XMLHttpRequest();
 
-            var xhr = new XMLHttpRequest()
-
-            xhr.open('get','/getInfo')
-            xhr.send()
+            xhr.open('get','/getInfo');
+            xhr.send();
             xhr.onreadystatechange =function(){
                 if (xhr.readyState == 4)
                 {

@@ -11,8 +11,7 @@ urlpatterns = [
     # path(r'second/<mid>/<name>',views.second) ,
 
     # http://localhost:8000/index/third/10/11/wangwu
-    url(r'third/(?P<a>\d+)/(?P<b>\d+)/(?P<name>\w+)',views
-        .third)
+    url(r'third/(?P<a>\d+)/(?P<b>\d+)/(?P<name>\w+)',views.third)
 ]
 # def test(a=0 , b=0 ,c=0):
 #     pass

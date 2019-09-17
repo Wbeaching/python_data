@@ -38,25 +38,25 @@ driver.get('http://www.baidu.com')
 # 错误原因：代码执行速度很快，但浏览器响应很慢
 # 代码执行到这的时候，浏览器里面的元素可能还没有加载完
 # 所以报错找不到指定的元素
-# time.sleep=5
-# driver.find_element_by_id('kw').send_keys('selenium')
+time.sleep=5
+driver.find_element_by_id('kw').send_keys('selenium')
 # 通过name值来找
-# driver.find_element_by_name('wd').send_keys('csdn')
-# driver.find_element_by_class_name('s_ipt').send_keys(u'智游')
+driver.find_element_by_name('wd').send_keys('csdn')
+driver.find_element_by_class_name('s_ipt').send_keys(u'智游')
 # tag__name标签名
-# driver.find_element_by_tag_name('input').send_keys('cctv')
+driver.find_element_by_tag_name('input').send_keys('cctv')
 # 前端
 # html
 # css
 # js
 # selector 样式选择器 #id .类名
-# driver.find_element_by_css_selector('#kw')
+driver.find_element_by_css_selector('#kw')
 # 通过xpath语法定位一个元素
-# driver.find_element_by_xpath('//form[@id="form"]/span/input[@id="kw"]')
-# 林肯链接
-# driver.find_element_by_link_text('贴吧')
+driver.find_element_by_xpath('//form[@id="form"]/span/input[@id="kw"]')
+# 通过页面文本按钮找到它的url
+driver.find_element_by_link_text('贴吧')
 
-time.sleep(1)
+# time.sleep(1)
 driver.close()
 
 

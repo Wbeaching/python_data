@@ -1,9 +1,7 @@
 
-
-
-
 from selenium import webdriver
 import time
+
 driver = webdriver.Firefox()
 driver.get('https://i.meishi.cc/login.php?redirect=https%3A%2F%2Fwww.meishij.net%2F')
 
@@ -15,6 +13,6 @@ username = driver.find_element_by_name('username').text
 password = driver.find_element_by_class_name('password').text
 print(username)
 print(password)
-# driver.find_element_by_name('username').clear()
-# driver.find_element_by_class_name('password').clear()
-# driver.find_element_by_xpath('//div[@class="msj_loginbox"]/input[@class="submit"]').click()
+driver.find_element_by_name('username').clear()
+driver.find_element_by_class_name('password').clear()
+driver.find_element_by_xpath('//div[@class="msj_loginbox"]/input[@class="submit"]').click()

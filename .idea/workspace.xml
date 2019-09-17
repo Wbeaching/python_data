@@ -3,9 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="8070997e-7cf2-47cb-9379-4ba1aee2dd12" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.正课/7.26/6.bs4 图片下载.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.正课/7.26/6.bs4 图片下载.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.正课/7.27/2.豆瓣 xpath.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.正课/7.27/2.豆瓣 xpath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.正课/7.28/2.作业.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.正课/7.28/2.作业.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.正课/7.30/3.selenium学习.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.正课/7.30/3.selenium学习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.正课/7.30/4.selenium登陆.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.正课/7.30/4.selenium登陆.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.正课/7.31/1.按键操作.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.正课/7.31/1.按键操作.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.正课/8.01/2.线程锁.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.正课/8.01/2.线程锁.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.正课/8.01/4.线程队列.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.正课/8.01/4.线程队列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/8.30/员工信息管理系统/info/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/练习/8.30/员工信息管理系统/info/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/messagebox/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/练习/messagebox/public/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,89 +24,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.正课/7.25/3.cookie 处理.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1836">
-              <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
-              <folding>
-                <element signature="e#131#180#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.正课/7.25/4.request 请求.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.正课/7.26/8.斗鱼.py">
+        <entry file="file://$PROJECT_DIR$/练习/9.04/4.templates/django_template/myApp/templatetags/test.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.正课/7.27/1.xpath  文件下载.py">
+        <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myPro/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+            <state>
               <folding>
-                <element signature="e#264#302#0" expanded="true" />
+                <element signature="e#629#661#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.正课/7.27/2.豆瓣 xpath.py">
+        <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1998">
-              <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="297">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.正课/7.28/2.作业.py">
+        <entry file="file://$PROJECT_DIR$/练习/留言板/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.正课/7.28/1.练习.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2349">
-              <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.正课/7.20/2.百度贴吧.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            <state relative-caret-position="-616">
+              <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>des</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -113,22 +77,29 @@
         <option value="$PROJECT_DIR$/3.正课/7.26/6.bs4 图片下载.py" />
         <option value="$PROJECT_DIR$/3.正课/7.27/2.豆瓣 xpath.py" />
         <option value="$PROJECT_DIR$/3.正课/7.28/2.作业.py" />
+        <option value="$PROJECT_DIR$/3.正课/7.30/1.美食杰.py" />
+        <option value="$PROJECT_DIR$/3.正课/7.30/2.csv操作.py" />
+        <option value="$PROJECT_DIR$/3.正课/7.30/3.selenium学习.py" />
+        <option value="$PROJECT_DIR$/3.正课/7.30/4.selenium登陆.py" />
+        <option value="$PROJECT_DIR$/3.正课/7.30/1.txt" />
+        <option value="$PROJECT_DIR$/3.正课/7.30/cate.py" />
+        <option value="$PROJECT_DIR$/3.正课/7.31/1.按键操作.py" />
+        <option value="$PROJECT_DIR$/3.正课/8.01/2.线程锁.py" />
+        <option value="$PROJECT_DIR$/3.正课/8.01/4.线程队列.py" />
+        <option value="$PROJECT_DIR$/练习/8.29/1.钢琴.html" />
+        <option value="$PROJECT_DIR$/练习/8.29/nodebasic/public/index.html" />
+        <option value="$PROJECT_DIR$/练习/8.30/员工信息管理系统/info/public/index.html" />
+        <option value="$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/urls.py" />
+        <option value="$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/views.py" />
+        <option value="$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myApp/views.py" />
+        <option value="$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/templates/base.html" />
+        <option value="$PROJECT_DIR$/练习/messagebox/public/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/python_data.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="861" />
-    <option name="y" value="31" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="99" />
+    <option name="y" value="8" />
     <option name="width" value="1001" />
     <option name="height" value="1047" />
   </component>
@@ -153,19 +124,13 @@
             <path>
               <item name="python_data" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data" type="462c0819:PsiDirectoryNode" />
-              <item name="3.正课" type="462c0819:PsiDirectoryNode" />
-              <item name="7.27" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_data" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_data" type="462c0819:PsiDirectoryNode" />
-              <item name="3.正课" type="462c0819:PsiDirectoryNode" />
-              <item name="7.28" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_data" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_data" type="462c0819:PsiDirectoryNode" />
               <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="留言板" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,6 +148,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\python_data\3.正课\7.30" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -195,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.4.线程队列">
     <configuration name="2.正则表达式" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,8 +188,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4.线程队列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.正课/8.01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.正课/8.01/4.线程队列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.线程队列" />
         <item itemvalue="Python.2.正则表达式" />
       </list>
     </recent_temporary>
@@ -240,18 +233,19 @@
       <workItem from="1566868620851" duration="3807000" />
       <workItem from="1566894150489" duration="753000" />
       <workItem from="1567051013749" duration="1461000" />
-      <workItem from="1567136716236" duration="256000" />
+      <workItem from="1567136716236" duration="13926000" />
+      <workItem from="1567384946627" duration="11307000" />
+      <workItem from="1567564923738" duration="171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11290000" />
+    <option name="totallyTimeSpent" value="36438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13646056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -279,150 +273,313 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_data$2_.coverage" NAME="2.正则表达式 Coverage Results" MODIFIED="1563957748371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.正课/7.18" />
+    <SUITE FILE_PATH="coverage/python_data$4_.coverage" NAME="4.线程队列 Coverage Results" MODIFIED="1567159151185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.正课/8.01" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3.正课/7.18/1.天气类.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.16/2.数据库模糊查询.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1053">
-          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.19/2.百度首页爬虫.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.18/3.爬虫初识.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-292" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.19/6.练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.19/5.糗事百科爬虫.py">
+    <entry file="file://$PROJECT_DIR$/练习/8.29/registandlogin/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.19/4.正则.py">
+    <entry file="file://$PROJECT_DIR$/练习/8.29/nodebasic/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/8.29/1.钢琴.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/8.30/员工信息管理系统/info/data/info.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.20/糗事百科 类 数据库+数据处理.py">
+    <entry file="file://$PROJECT_DIR$/练习/8.30/员工信息管理系统/info/public/new.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        <state relative-caret-position="680">
+          <caret line="117" column="7" lean-forward="true" selection-start-line="117" selection-start-column="7" selection-end-line="117" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.25/2.request 请求.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.18/2.正则表达式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-513">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.19/3.爬虫升级随机ip和User-Agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.26/6.bs4 图片下载.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="73" column="34" lean-forward="true" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
-          <folding>
-            <element signature="e#25#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.25/3.cookie 处理.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="70" column="3" selection-start-line="70" selection-start-column="3" selection-end-line="70" selection-end-column="3" />
-          <folding>
-            <element signature="e#131#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.25/4.request 请求.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.26/8.斗鱼.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.27/1.xpath  文件下载.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-          <folding>
-            <element signature="e#264#302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.27/2.豆瓣 xpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.28/1.练习.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2349">
-          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.20/2.百度贴吧.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.正课/7.28/2.作业.py">
+    <entry file="file://$PROJECT_DIR$/练习/8.30/员工信息管理系统/info/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
-          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+          <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/8.30/xhr登录注册的/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/8.30/form/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/myModels/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#224#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/8.29/registandlogin/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/myApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/myApp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/myApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/myApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/myApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/myModels/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="120" column="16" lean-forward="true" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/myModels/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="65" lean-forward="true" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/1.Django-models/myModels/总结.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myArgu/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="79" column="34" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myArgu/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/3.django-argument/myArgu/myApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/4.templates/django_template/myApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/4.templates/django_template/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/4.templates/django_template/myApp/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/4.templates/django_template/myApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/4.templates/django_template/myApp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/4.templates/django_template/django_template/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myApp/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myApp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/2.表单/myPro/myApp/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/messagebox/data/info.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/2.表单/myPro/myPro/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/2.表单/myPro/myApp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/2.表单/myPro/myApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/2.表单/myPro/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/messagebox/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="70" column="48" lean-forward="true" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.04/4.templates/django_template/myApp/templatetags/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/myPro/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/9.05 模板继承 表单/1.模板继承/myPro/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/留言板/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
         </state>
       </provider>
     </entry>
